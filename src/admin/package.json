@@ -2,5 +2,8 @@
   "name": "@victordumbrava/admin",
   "version": "1.0.0",
   "main": "index.js",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "@victordumbrava/test-lerna-package": "1.0.2"
+  }
 }
