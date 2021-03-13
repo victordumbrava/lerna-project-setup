@@ -18,8 +18,8 @@
   },
   "repository": {
     "type": "git",
-    "url": "ssh://git@github.com/saulhardman/nuxt-modules.git",
-    "directory": "packages/nuxt-html-validate"
+    "url": "ssh://git@github.com/victordumbrava/lerna-project-setup.git",
+    "directory": "packages/test-lerna-package"
   },
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/"
